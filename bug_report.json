@@ -4,7 +4,7 @@
             "STEP_3": "Tap buttom Search",
             "STEP_4": "Click on the first link"
            },
-  "EXPECTED_RESULT": "Link opened"
+  "EXPECTED_RESULT": "Link opened",
   "ACTUAL_RESULT": "No results were found"
 }
 
